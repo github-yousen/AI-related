@@ -1,0 +1,9 @@
+[submodule "skills"]
+	path = skills
+	url = https://github.com/github-yousen/skills.git
+[submodule "doubao-skills"]
+	path = doubao-skills
+	url = https://github.com/github-yousen/doubao-skills.git
+[submodule "agent-harness-comparison"]
+	path = agent-harness-comparison
+	url = https://github.com/github-yousen/agent-harness-comparison.git
